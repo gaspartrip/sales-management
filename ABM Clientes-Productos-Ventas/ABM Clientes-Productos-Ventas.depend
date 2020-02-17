@@ -1,0 +1,120 @@
+# depslib dependency file v1.0
+1528488411 source:c:\users\tripodi\desktop\tp integrador laboratorio 1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1528510296 source:f:\programación\c\tp integrador laboratorio 1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"gestion.h"
+
+1528510304 source:f:\programación\c\tp integrador laboratorio 1\gestion.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"gestion.h"
+
+1528510408 f:\programación\c\tp integrador laboratorio 1\gestion.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"gestion.h"
+
+1528510296 source:d:\programación\c\tp integrador laboratorio 1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"gestion.h"
+
+1528510408 d:\programación\c\tp integrador laboratorio 1\gestion.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"gestion.h"
+
+1528510296 source:g:\programación\c\tp integrador laboratorio 1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"gestion.h"
+
+1528510408 g:\programación\c\tp integrador laboratorio 1\gestion.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"gestion.h"
+
+1528894312 source:e:\facultad\programacion\primer cuatrimestre\tp integrador laboratorio 1\gestion.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"gestion.h"
+
+1528894310 e:\facultad\programacion\primer cuatrimestre\tp integrador laboratorio 1\gestion.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"gestion.h"
+
+1528894316 source:e:\facultad\programacion\primer cuatrimestre\tp integrador laboratorio 1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"gestion.h"
+
+1528894312 source:d:\facultad\programacion\primer cuatrimestre\tp integrador laboratorio 1\gestion.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"gestion.h"
+
+1528894310 d:\facultad\programacion\primer cuatrimestre\tp integrador laboratorio 1\gestion.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"gestion.h"
+
+1528894316 source:d:\facultad\programacion\primer cuatrimestre\tp integrador laboratorio 1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"gestion.h"
+
+1528890712 source:c:\users\hp\downloads\tp integrador laboratorio 1\gestion.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"gestion.h"
+
+1528890710 c:\users\hp\downloads\tp integrador laboratorio 1\gestion.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"gestion.h"
+
+1528890716 source:c:\users\hp\downloads\tp integrador laboratorio 1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"gestion.h"
+
+1528890712 source:c:\users\hp\downloads\abm clientes-productos-ventas\gestion.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"gestion.h"
+
+1528890710 c:\users\hp\downloads\abm clientes-productos-ventas\gestion.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"gestion.h"
+
+1528890716 source:c:\users\hp\downloads\abm clientes-productos-ventas\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"gestion.h"
+
